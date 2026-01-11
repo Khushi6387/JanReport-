@@ -84,7 +84,7 @@ During this internship, I learned the importance of teamwork while building a fu
 The future scope of this project includes integrating advanced analytics and machine learning to identify patterns in civic issues, predict high-risk zones, and prioritize tasks based on severity and historical trends. This can help authorities allocate resources more intelligently and proactively. The platform can also be extended with features such as multilingual support, voice-based complaint submission for less literate users, tighter integration with GIS systems, mobile apps for both citizens and field officers, and open APIs for third-party civic-tech tools, thereby transforming it into a comprehensive smart-governance ecosystem.
 
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="[<!-- Add link to full report -->](https://github.com/Khushi6387/JanReport-/blob/main/SURE%20Trust%20project%20document%20(1).pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
