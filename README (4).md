@@ -132,13 +132,11 @@ During my internship period, I participated in multiple community-oriented activ
 ### **Photos**
 
 <!-- add your photos below -->
-<img src="https://www.linkedin.com/groups/14430462/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A14430462-7412883812420001792&q=highlightedFeedForGroups" alt="Photos Of services">
 
 
 
 <div align="center">
-<img src="
-https://github.com/Khushi6387/JanReport-/blob/e1c32e567daeed245f7c6ff5777febc8b9c30cbd/WhatsApp%20Image%202026-01-11%20at%2012.13.32%20PM.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/Khushi6387/JanReport-/blob/e1c32e567daeed245f7c6ff5777febc8b9c30cbd/WhatsApp%20Image%202026-01-11%20at%2012.13.32%20PM.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/Khushi6387/JanReport-/blob/e1c32e567daeed245f7c6ff5777febc8b9c30cbd/WhatsApp%20Image%202026-01-11%20at%2012.13.31%20PM.jpeg" alt="Community Service Photo 2" width="30%">
 
 
