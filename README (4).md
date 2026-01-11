@@ -84,7 +84,7 @@ During this internship, I learned the importance of teamwork while building a fu
 The future scope of this project includes integrating advanced analytics and machine learning to identify patterns in civic issues, predict high-risk zones, and prioritize tasks based on severity and historical trends. This can help authorities allocate resources more intelligently and proactively. The platform can also be extended with features such as multilingual support, voice-based complaint submission for less literate users, tighter integration with GIS systems, mobile apps for both citizens and field officers, and open APIs for third-party civic-tech tools, thereby transforming it into a comprehensive smart-governance ecosystem.
 
 <p>
-  <a href="[<!-- Add link to full report -->](https://github.com/Khushi6387/JanReport-/blob/main/SURE%20Trust%20project%20document%20(1).pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Khushi6387/JanReport-/blob/0c7b2c0052bddf62793b7b55b85cf281645f4b5e/SURE%20Trust%20project%20document%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -140,6 +140,12 @@ During my internship period, I participated in multiple community-oriented activ
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+    <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+    <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+
 </div>
 
 ---
