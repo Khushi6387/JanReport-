@@ -73,7 +73,7 @@ During this internship, I learned the importance of teamwork while building a fu
 <p><strong><a href="https://github.com/Khushi6387/KhushiPal-g3-DSJ-Internship-Report/tree/e2aa3ac05514b2ea9396363391619178064f3c62/admin%20UI">Project 1:</a></strong> &lt; Jan Report &gt;</p>
 
 
-<p><em>(You can add more projects as needed)</em></p>
+
 
 </div>
 
@@ -85,16 +85,13 @@ The future scope of this project includes integrating advanced analytics and mac
 
 <p>
   <a href="https://github.com/Khushi6387/JanReport-/blob/0c7b2c0052bddf62793b7b55b85cf281645f4b5e/SURE%20Trust%20project%20document%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+    <a href="https://github.com/Khushi6387/KhushiPal-g3-DSJ-Internship-Report/blob/e2aa3ac05514b2ea9396363391619178064f3c62/ASSIGNMENT%20(1).pdf" target="_blank"><strong>→ View Assignments </strong></a>
 </p>
 
 
 
 
-## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
 
 
 ## **Learnings from LST and SST**
