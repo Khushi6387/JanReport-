@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Khushi Pal </p>
+    <p><strong>Email ID:</strong> Khushipal847@gmail.com </p>
+    <p><strong>College Name:</strong> Sir Chhotu Ram Institute of Technology _</p>
+    <p><strong>Branch/Specialization :</strong> Computer Science </p>
+    <p><strong>College ID:</strong>  </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> G3 DSA in Java </p>
+    <p><strong>Instructor Name:</strong> Karthik R </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 month </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Karthik Sir </p>
+<p><strong>Trainer Email ID:</strong>Karthikofficial2712@gmail.</p>
+<p><strong>Trainer Designation:</strong>Software Tester at Jio Platforms Limited</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,56 +63,31 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this internship, I learned the importance of teamwork while building a full stack project. I gained hands-on experience in backend development and understood how real-world applications are designed and managed.
+
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; Jan Report &gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: JanReport </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
+ The Civil Issue Reporting Platform successfully met its primary objective of providing a centralized, digital channel for citizens to report civic issues and for authorities to track and resolve them efficiently. The project achieved key goals such as issue reporting with location and photo, status tracking, administrative workflows, and a public transparency dashboard that displays live counters, anonymized maps, and recent resolutions without exposing personal data. Additionally, the system architecture using a web frontend and a structured backend with secure data storage demonstrated that the solution is technically feasible, scalable, and suitable for deployment in real-world municipal environments.
+The future scope of this project includes integrating advanced analytics and machine learning to identify patterns in civic issues, predict high-risk zones, and prioritize tasks based on severity and historical trends. This can help authorities allocate resources more intelligently and proactively. The platform can also be extended with features such as multilingual support, voice-based complaint submission for less literate users, tighter integration with GIS systems, mobile apps for both citizens and field officers, and open APIs for third-party civic-tech tools, thereby transforming it into a comprehensive smart-governance ecosystem.
+
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
@@ -124,32 +99,32 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Through Life Skills Training (LST), I learned many values that will stay with me throughout my life such as time management, selfless service, maintaining a positive attitude, and practicing gratitude in daily life.
+
+In Soft Skills Training (SST), I developed communication skills and learned about industry culture, workplace ethics, and how professionals collaborate in real corporate environments. This training helped me become more confident, disciplined, and industry-ready.
+
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+I actively participated in community service activities such as planting trees to support environmental sustainability and serving senior citizens by assisting them in daily tasks and providing emotional support. These experiences taught me social responsibility, empathy, teamwork, and the importance of giving back to society.
+
 
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
+
+   https://share.google/4npA8sbq5Ta8TzMCL
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+   https://share.google/4npA8sbq5Ta8TzMCL
+- **Helping Elder Citizens** – Assisted Four elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -157,9 +132,9 @@ During my internship period, I participated in multiple community-oriented activ
 ### **Photos**
 
 <!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
+<img src="https://www.linkedin.com/groups/14430462/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A14430462-7412883812420001792&q=highlightedFeedForGroups" alt="Photos Of services">
 
-- These are just placeholder (sample) images <!-- remove this line -->
+
 
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
